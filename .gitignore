@@ -1,0 +1,3 @@
+src/aspnetcore/obj/
+src/aspnetcore/bin/
+src/aspnetcore/project.lock.json
